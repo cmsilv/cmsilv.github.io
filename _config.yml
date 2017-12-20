@@ -2,7 +2,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://wabry.github.io"
+url: "https://cmsilv.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -22,17 +22,17 @@ google-tracking-id: ""
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-force-https: True
+force-https: False
 
 #############
 # HTML Head #
 #############
 
 lang: "en"
-author: "Will Bryant"
-title: "{ Will Bryant }"
-description: "Personal website and blog of Will Bryant."
-keywords: "william, will, bryant, personal, jekyll, theme"
+author: "Curt Silverthorn"
+title: "Curt Silverthorn"
+description: "Personal website and blog of Curt Silverthorn."
+keywords: "Curt, Silverthorn, curt, silverthorn, bryant, personal, jekyll, theme"
 favicon: "/img/personBlack.ico"
 
 ################
@@ -108,43 +108,40 @@ icon-192p: ""
 ############
 
 events:
+  - image: "/img/timeline/advantagecs_logo.png"
+    date: "Starting Summer 2018"
+    description: "Software Developer at AdvantageCS"
+  - image: "/img/timeline/wethepeople.png"
+    date: "September 2017 - December 2017"
+    description: "Created \"WeThePeople\" A Legislative News Feed Mobile App For EECS 441"
   - image: "/img/timeline/Dell_Logo.png"
     date: "June 2017 - August 2017"
     description: "CTO Software Architecture Intern at Dell"
-  - image: "/img/timeline/smart_safe.png"
-    date: "March 2017 - April 2017"
-    description: "Built an embedded \"smart safe\" for EECS 373"
-  - image: "/img/timeline/mpowered.png"
-    date: "March 2017"
-    description: "Became CTO & CFO of MPowered Entrepreneurship"
-  - image: "/img/timeline/mqtt.png"
-    date: "August 2016"
-    description: "Wrote a rule engine for a MQTT inspired pub/sub model"
-  - image: "/img/timeline/chamberlain_logo.png"
-    date: "June 2016 - August 2016"
-    description: "Firmware Development Intern at The Chamberlain Group"
-  - image: "/img/timeline/makeathon.png"
-    date: "April 2017"
-    description: "Became project director of MPowered's Makeathon"
-  - image: "/img/timeline/robot_drone.jpg"
-    date: "June 2015 - August 2015"
-    description: "Built a robot drone, controllable via WiFi"
+  - image: "/img/timeline/fca_logo.png"
+    date: "May 2016 - August 2016"
+    description: "SAP IT Intern at Fiat Chrysler Automobiles"
+  - image: "/img/timeline/tecnun.jpeg"
+    date: "May 2015 - June 2015"
+    description: "Studied Abroad at The University of Nevarra in Spain"
+  - image: "/img/timeline/maav.jpeg"
+    date: "October 2014"
+    description: "Joined the Michigan Autonomous Aerial Vehicle Student Design Team \"MAAV\""
   - image: "/img/timeline/umich_seal.png"
     date: "September 2014"
-    description: "Started school at the University of Michigan"
-  - image: "/img/timeline/senior_robotics.jpg"
+    description: "Started School at the University of Michigan"
+  - image: "/img/timeline/claymore.jpg"
     date: "September 2013 - April 2014"
-    description: "Built a line following and obstacle avoiding robot"
+    description: "Built a Motion-Activated Airsoft Claymore"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/massachusetts.png"
+timeline-img: "/img/timeline/michigan.jpeg"
 
 ###########
 # Contact #
 ###########
 
-email: "wabryant@umich.edu"
+email: "cmsilv@umich.edu"
 
 ##################
 # Social Buttons #
@@ -152,9 +149,9 @@ email: "wabryant@umich.edu"
 
 social:
   - title: "github"
-    url: "https://github.com/wabry"
+    url: "https://github.com/cmsilv"
   - title: "linkedin"
-    url: "https://www.linkedin.com/in/william-bryant/"
+    url: "https://www.linkedin.com/in/curt-silverthorn-bb3079126/"
 
 ############
 # 404 page #
