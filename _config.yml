@@ -41,7 +41,7 @@ favicon: "/img/personBlack.ico"
 
 black-favicon: "/img/personWhite.ico"
 
-background-img: "../img/universe-background.jpg"
+background-img: "/img/background.jpg"
 
 ##############################
 # Dynamic Text on the Header #
