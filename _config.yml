@@ -68,7 +68,7 @@ lines: # You can add HTML Tags in the Text
 # in the end of the url just before '&type' is your user id.
 # Note: fbid is not the same as user id and user id only contains numbers
 
-me-img: "https://graph.facebook.com/100000053129514/picture?type=large&width=500&height=500"
+me-img: "/img/headshot.jpg"
 
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
@@ -129,9 +129,9 @@ events:
   - image: "/img/timeline/umich_seal.png"
     date: "September 2014"
     description: "Started School at the University of Michigan"
-  - image: "/img/timeline/claymore.jpg"
-    date: "September 2013 - April 2014"
-    description: "Built a Motion-Activated Airsoft Claymore"
+#  - image: "/img/timeline/claymore.jpg"
+#    date: "September 2013 - April 2014"
+#    description: "Built a Motion-Activated Airsoft Claymore"
 
 # First image of the Timeline
 
