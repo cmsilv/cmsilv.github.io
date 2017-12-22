@@ -1,5 +1,5 @@
 {
-  "name": "{ Will Bryant }",
+  "name": "Curt Silverthorn",
   "icons": [
     {
       "src": "",
@@ -32,6 +32,6 @@
       "type": "image/png"
     }
   ],
-  "start_url": "https://wabry.github.io",
+  "start_url": "https://cmsilv.github.io",
   "display": "standalone"
 }

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>{ Will Bryant }</title>
-		<description>Personal website and blog of Will Bryant.</description>
-		<link>https://wabry.github.io</link>
-		<atom:link href="https://wabry.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		<title>Curt Silverthorn</title>
+		<description>Personal website and blog of Curt Silverthorn.</description>
+		<link>https://cmsilv.github.io</link>
+		<atom:link href="https://cmsilv.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 	</channel>
 </rss>
