@@ -55,10 +55,12 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "If debugging is the process of removing software bugs, then programming must be the process of putting them in."
-  - text: "Good design adds value faster than it adds cost."
-  - text: "It’s not a bug – it’s an undocumented feature."
-  - text: "Some people, when confronted with a problem, think, 'I know, I'll use threads' - and then two they hav erpoblesms."
+  - text: "<q>If debugging is the process of removing software bugs, then programming must be the process of putting them in.</q> - Edsger Dijkstra"
+  - text: "<q>The best thing about a boolean is even if you are wrong, you are only off by a bit. </q> - Anonymous"
+  - text: "<q>It’s not a bug – it’s an undocumented feature. </q> - Anonymous"
+  - text: "<q>Should array indices start at 0 or 1?  My compromise of 0.5 was rejected without, I thought, proper consideration.</q> - Stan Kelly-Bootle"
+  - text: "<q>In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.</q> - Bjarne Stroustrup"
+  - text: "<q>There are two ways to write error-free programs; only the third one works.</q> - Alan J. Perlis"
   
 # me-img: "/img/jetpacktocat.png"
 
